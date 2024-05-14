@@ -106,7 +106,19 @@
         "skillssectiondescription":"Je travail du les technologies de développement tel que definir dans la liste ",
         "skills": [
             {
-                "name": "API REST",
+                "name": "Service REST/SOAP",
+                "level": "90%"
+            },
+            {
+                "name": "Shell",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "90%"
+            },
+            {
+                "name": "Django Rest Framework",
                 "level": "90%"
             },
             {
@@ -122,21 +134,25 @@
                 "level": "70%",
                 "icon": "fa fa-javascript"
             },
-            {
-                "name": "Shell",
-                "level": "90%"
-            },
+            
             {
                 "name": "Git",
                 "level": "75%"
             },
             {
                 "name": "Typesript",
-                "level": "50%"
+                "level": "65%"
             },
-            
+            {
+                "name": "IA:Xgboost, Jupyter Notebook, Matplolib, Pandas",
+                "level": "65%"
+            },
             {
                 "name": ".NET",
+                "level": "65%"
+            },
+            {
+                "name": "Message broker:RabbitMQ, Kafka",
                 "level": "65%"
             }
         ]
