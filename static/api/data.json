@@ -4,8 +4,8 @@
         "shortname": "Boop",
         "occupation": "Ingénieur logiciel",
         "description": "Mangez, dormez, codez, répétez.",
-        "yearofexperience": "02",
-        "age": "26",
+        "yearofexperience": "04",
+        "age": "27",
         "designation": "Développeur full stack",
         "image": "/images/photo.png",
         "fullimage": "/images/myphoto1.jpg",
@@ -36,7 +36,7 @@
             "awardrecived": "0",
             "happyclinet": "2"
         },
-        "resumedownload": "https://drive.google.com/file/d/1GDP9eekQp4NTQ-7QT5qkLd3MgUUXTfUB/view?usp=drive_link",
+        "resumedownload": "https://drive.google.com/file/d/1jZCCkTiztsx71dL4p4oQ6_fIfO3-xcRP/view?usp=drive_link",
         "social": [{
                 "name": "youtube",
                 "url": "https://www.youtube.com/channel/UCHwr0CjLnhqIWcQh9pX9NJw",
@@ -68,9 +68,9 @@
         "skillmessage": "Mes compétences en langage de programmation",
         "education": [{
             "school": "Université de Dschang.",
-            "degree": "Master 1 en Intelligence Artificielle",
+            "degree": "Maitrise en Informatique(Intelligence Artificielle)",
             "graduated": "Juilet  2023",
-            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'examen Master 1 en Intelligence Artificielle",
+            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'examen Maitrise en Informatique orientation Intelligence Artificielle)",
             "url":"#"
             
         },
@@ -107,10 +107,18 @@
         "skills": [
             {
                 "name": "Service REST/SOAP",
-                "level": "90%"
+                "level": "95%"
             },
             {
                 "name": "Shell",
+                "level": "95%"
+            },
+            {
+                "name": "Java",
+                "level": "90%"
+            },
+            {
+                "name": "Spring boot",
                 "level": "90%"
             },
             {
@@ -119,15 +127,7 @@
             },
             {
                 "name": "Django Rest Framework",
-                "level": "90%"
-            },
-            {
-                "name": "Java",
-                "level": "80%"
-            },
-            {
-                "name": "Spring boot",
-                "level": "80%"
+                "level": "85%"
             },
             {
                 "name": "React JS",
