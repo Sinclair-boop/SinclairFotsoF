@@ -203,6 +203,19 @@
                 "description": "Réalisation d'une API dans la quelle on charge un modèle préalablement entraîne pour la détection de transaction frauduleuse, il communique avec l'api simulation(Projet Academique du Master1)",
                 "url": "https://github.com/Sinclair-boop/vueJsModals.git"
             }
+            ,
+             {
+                "no":"06",
+                "title": "Microservice pour l'envoi de mails 1",
+                "description": "Micro Service pour Envoi de Mail 1 est une solution innovante conçue pour être déployée sur le cloud en tant que SaaS, afin de simplifier et d'optimiser l'envoi d'emails. Ce service fonctionne en parfaite synergie avec le Micro Service pour Envoi de Mail 2 grâce à une communication fluide via API, garantissant une efficacité et une fiabilité maximales pour toutes vos opérations d'envoi d'emails.",
+                "url": "https://github.com/Sinclair-boop/newsletterProducer"
+            },
+            {
+                "no":"07",
+                "title": "Microservice pour l'envoi de mails 2",
+                "description": "",
+                "url": "https://github.com/Sinclair-boop/newsletterConsomer"
+            }
         ]
     },
     "testimonials": {
