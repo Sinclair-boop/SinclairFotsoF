@@ -81,6 +81,14 @@
             "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'examen Licence en Informatique Fondamentale",
             "url":"https://drive.google.com/file/d/12sdQ64DBMz3g5IVsrHHQxjTvw1AG-mR7/view?usp=sharing"
         },
+                    {
+            "school": "Udemy",
+            "degree": "Oracle Java Certification-Pass the associate 1Z0-808 Exam.",
+            "graduated": "Oct 2023",
+            "description": "",
+            "url":"https://drive.google.com/file/d/18vpDy_NMG6-VCkmd2bw2PNYOxntXj2of/view?usp=drive_link"
+        },
+            
         {
             "school": "Google Atelier Digital",
             "degree": "Fondamentaux du marketing numerique",
@@ -88,15 +96,22 @@
             "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'exament Fondamentaux du marketing numerique",
             "url":"https://drive.google.com/file/d/12sdQ64DBMz3g5IVsrHHQxjTvw1AG-mR7/view?usp=sharing"
         }],
-        "work": [{
-            "company": "Africa Systems",
-            "title": "Software engineer",
+        "work": [
+                    {
+            "company": "CREDIXCAM SA",
+            "link": "https://website.credixcm.com/",
+            "title": "Ingenieur Logiciel",
+            "years": "Depuis Sep 2023",
+            "description": "Au sein d'une entreprise technologique (fintech) spécialisée dans le développement de produits offrant aux consommateurs un contrôle centralisé de leurs finances, en partenariat avec MTN, Orange Groupe et la GIMAC, mon rôle principal est de développer des microservices hébergés dans le cloud."
+        },{
+            "company": "Africa Systems LTE",
+            "title": "Développeur Full Stack",
             "link": "https://africsys.com/",
-            "years": "Jun 2022 - jan 2023",
-            "description": "Développer des logiciels conviviaux et meilleurs."
+            "years": "Jun 2021 - Sep 2023",
+            "description": "Dans une entreprise technologique prestataire de services, mon rôle principal est de développer des modules côté back-end et front-end."
         },
         {
-            "company": "Projet personnel sur GitHub",
+            "company": "Projet personnel",
             "link": "https://github.com/Sinclair-boop",
             "title": "Software engineer",
             "years": "Jun 2018 - maintenant",
