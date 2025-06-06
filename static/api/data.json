@@ -1,10 +1,10 @@
 {
     "main": {
-        "name": "Sinclair Fotso",
-        "shortname": "Boop",
+        "name": "Sinclair Fotso Ngapout",
+        "shortname": "Sinclair-boop",
         "occupation": "Ingénieur logiciel",
         "description": "Mangez, dormez, codez, répétez.",
-        "yearofexperience": "04",
+        "yearofexperience": "05",
         "age": "27",
         "designation": "Développeur full stack",
         "image": "/images/photo.png",
@@ -15,7 +15,7 @@
         "phone": "+237693462144",
         "mapaddress": "https://goo.gl/maps/Z93uUwt68BsqXc2DA",
         "address": {
-            "street": "Titi Garage",
+            "street": "Ngousso",
             "city": "Yaounde",
             "state": "Cameroun",
             "zip": "4202"
@@ -31,12 +31,12 @@
             "description": "Maintenance des modules et mise à jour régulière conformément aux offres promotionnelles et aux événements. Utilisation du codage. Assistance aux autres membres de l'équipe pour la maintenance des projets. Forte maîtrise de l'anglais."
         },
         "workabout": {
-            "completedproject": "4",
-            "inprogressproject": "7",
+            "completedproject": "8",
+            "inprogressproject": "1",
             "awardrecived": "0",
             "happyclinet": "4"
         },
-        "resumedownload": "https://drive.google.com/file/d/1jZCCkTiztsx71dL4p4oQ6_fIfO3-xcRP/view?usp=drive_link",
+        "resumedownload": "https://drive.google.com/file/d/1FTNFhOXhH3IgnFHP_Mzmnz1iJxOhu4f6/view?usp=drive_link",
         "social": [{
                 "name": "youtube",
                 "url": "https://www.youtube.com/channel/UCHwr0CjLnhqIWcQh9pX9NJw",
@@ -66,7 +66,19 @@
     },
     "resume": {
         "skillmessage": "Mes compétences en langage de programmation",
-        "education": [{
+        "education": [
+                    {
+            "school": "Cameroon International Tech Summit",
+            "degree": "ITS24 Hackathon National ",
+            "graduated": "Oct 2024",
+            "description": " En reconnaissance de votre participation au Hackathon national du CITS24, un défi d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.
+ d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.
+ Représentant la région de l'Est, vous avez rejoint 350 innovateurs dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels.
+ dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels. Votre contribution à
+ Votre contribution à cet événement national a permis de faire avancer la technologie et l'innovation au Cameroun.",
+            "url":"https://drive.google.com/file/d/1mK9cObGddj9CSFqmCdctmaJwif3zHNwC/view?usp=drive_link"
+        },
+            {
             "school": "Université de Dschang.",
             "degree": "Maitrise en Informatique(Intelligence Artificielle)",
             "graduated": "Juilet  2023",
@@ -79,7 +91,7 @@
             "degree": "Licence en Informatique Fondamentale",
             "graduated": "Juilet 2022",
             "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'examen Licence en Informatique Fondamentale",
-            "url":"https://drive.google.com/file/d/12sdQ64DBMz3g5IVsrHHQxjTvw1AG-mR7/view?usp=sharing"
+            "url":"#"
         },
                     {
             "school": "Udemy",
@@ -107,7 +119,7 @@
             "company": "Africa Systems LTE",
             "title": "Développeur Full Stack",
             "link": "https://africsys.com/",
-            "years": "Jun 2021 - Sep 2023",
+            "years": "Jun 2020 - Sep 2023",
             "description": "Dans une entreprise technologique prestataire de services, mon rôle principal est de développer des modules côté back-end et front-end."
         },
         {
@@ -138,7 +150,7 @@
             },
             {
                 "name": "Python",
-                "level": "90%"
+                "level": "80%"
             },
             {
                 "name": "Django Rest Framework",
@@ -152,7 +164,7 @@
             
             {
                 "name": "Git",
-                "level": "75%"
+                "level": "95%"
             },
             {
                 "name": "Typesript",
@@ -173,39 +185,46 @@
         ]
     },
     "portfolio": {
-        "projects": [{
+        "projects": [
+            {
                 "no":"01",
+                "title": "TechCare237",
+                "description": "TECHCARE237 est un projet d’épargne par monnaie électronique permettant aux participants de bénéficier des intérêts et d’une assurance.",
+                "url": "https://webtechcare.credixcm.com/"
+            },
+            {
+                "no":"02",
                 "title": "Quiz App",
                 "description": "QuizApp est un outil qui permet de créer des quiz sur un mode ludique. Il peut servir aussi bien aux enseignants pour l'évaluation qu'aux étudiants comme outil de révision.",
                 "url": "https://quiz-appv.vercel.app/"
             },
                 {
-                "no":"02",
+                "no":"03",
                 "title": "Gestionnaire de Contact",
                 "description": "Cette application est essentielement concu en React Js et Typescript il a pour but  de manipuler des contacts. C’est-à-dire : créer,modifier, supprimer des contacts.",
                 "url": "https://application-contact.vercel.app/"
             },
             {
-                "no":"03",
+                "no":"04",
                 "title": "Modals",
                 "description": "Modals est 'une mini application qui permet la creation des modals et la suppression des modals",
                 "url": "https://github.com/Sinclair-boop/vueJsModals.git"
             },
             {
-                "no":"04",
+                "no":"05",
                 "title": "API SIMULATION",
                 "description": "Réalisation d'un API pour simuler les transaction mobile money cas du Cameroun dans le cadre d'un projet de detection de transaction frauduleuse(Projet Accademique du Master 1)",
                 "url": "https://github.com/Sinclair-boop/vueJsModals.git"
             },
             {
-                "no":"05",
+                "no":"06",
                 "title": "API AI",
                 "description": "Réalisation d'une API dans la quelle on charge un modèle préalablement entraîne pour la détection de transaction frauduleuse, il communique avec l'api simulation(Projet Academique du Master1)",
                 "url": "https://github.com/Sinclair-boop/vueJsModals.git"
             }
             ,
              {
-                "no":"06",
+                "no":"07",
                 "title": "Microservice pour l'envoi de mails 1",
                 "description": "Micro Service pour Envoi de Mail est une solution innovante conçue pour être déployée sur le cloud en tant que SaaS, afin de simplifier et d'optimiser l'envoi d'emails.",
                 "url": "https://github.com/Sinclair-boop/newsletterProducer"
@@ -228,7 +247,7 @@
     "services": {
         "services": [
             {
-                "no": "01",
+                "no": "03",
                 "title": "UI/UX Design",
                 "description": "J’aime passer du temps avec mes clients pour comprendre leurs problématiques, définir une stratégie et créer des dispositifs clairs et fonctionnels."
             },
@@ -238,7 +257,7 @@
                 "description": "Je réalise de A à Z votre stratégie digitale, que ce soit pour créer votre site vitrine, votre site e-commerce, vos bannières ou bien vos interfaces mobiles, vos logos, des applications mobiles. Vous serez accompagné tout au long par un seul et même interlocuteur afin de ne pas avoir la tête qui tourne."
             },
             {
-                "no": "03",
+                "no": "01",
                 "title": "Développement logiciel",
                 "description": "je suis développeur logiciel, je fais de la programmation back-end et front-end, et de la configuration et gestion de serveurs. J’hésite à dire « full stack developer », terme popularisé il y a quelque temps, qui est devenu sujet à controverse."
             }
@@ -247,31 +266,41 @@
     "awwards": {
         "awwards": [
             {
-                "no":"01",
+            "no": "01",
+            "title: "ITS24 Hackathon National ",
+            "description": " En reconnaissance de votre participation au Hackathon national du CITS24, un défi d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.
+ d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.
+ Représentant la région de l'Est, vous avez rejoint 350 innovateurs dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels.
+ dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels. Votre contribution à
+ Votre contribution à cet événement national a permis de faire avancer la technologie et l'innovation au Cameroun.",
+            "url":"https://drive.google.com/file/d/1mK9cObGddj9CSFqmCdctmaJwif3zHNwC/view?usp=drive_link"
+        },
+            {
+                "no":"02",
                 "title": "Quiz App",
                 "description": "QuizApp est un outil qui permet de créer des quiz sur un mode ludique. Il peut servir aussi bien aux enseignants pour l'évaluation qu'aux étudiants comme outil de révision.",
                 "url": "https://quiz-appv.vercel.app/"
             },
             {
-                "no":"02",
+                "no":"03",
                 "title": "Gestionnaire de Contact",
                 "description": "Le but de cette application est de manipuler des contacts. C’est-à-dire : créer,modifier, supprimer des contacts. Il est implemente en React JS version 18.2.0 et Typescript version 4.9.5",
                 "url": "https://application-contact.vercel.app/"
             },
             {
-                "no":"03",
+                "no":"04",
                 "title": "Modals",
                 "description": "Modals est 'une mini application qui permet la creation des modals et la suppression des modals",
                 "url": "https://github.com/Sinclair-boop/vueJsModals.git"
             },
             {   
-                "no": "04",
+                "no": "05",
                 "title": "Counter App",
                 "description": "Couter App est'une mini aplication qui permet de compte a chaque clique de la souris",
                 "url":"https://vue-counter-app-zeta.vercel.app/"
             },
             {   
-                "no": "05",
+                "no": "06",
                 "title": "Modal App",
                 "description": "Modal App est'une mini aplication qui permet de cree des modals",
                 "url":"https://vue-mod.vercel.app/"
