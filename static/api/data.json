@@ -1,6 +1,6 @@
 {
     "main": {
-        "name": "Sinclair Fotso",
+        "name": "Sinclair Fotso Ngapout",
         "shortname": "Sinclair-boop",
         "occupation": "Ingénieur logiciel",
         "description": "Mangez, dormez, codez, répétez.",
@@ -71,11 +71,7 @@
             "school": "Cameroon International Tech Summit",
             "degree": "ITS24 Hackathon National ",
             "graduated": "Oct 2024",
-            "description": " En reconnaissance de votre participation au Hackathon national du CITS24, un défi d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.
- d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.
- Représentant la région de l'Est, vous avez rejoint 350 innovateurs dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels.
- dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels. Votre contribution à
- Votre contribution à cet événement national a permis de faire avancer la technologie et l'innovation au Cameroun.",
+            "description": " En reconnaissance de votre participation au Hackathon national du CITS24, un défi d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.\n d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.\nReprésentant la région de l'Est, vous avez rejoint 350 innovateurs dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels.\n dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels. Votre contribution à\n Votre contribution à cet événement national a permis de faire avancer la technologie et l'innovation au Cameroun.",
             "url":"https://drive.google.com/file/d/1mK9cObGddj9CSFqmCdctmaJwif3zHNwC/view?usp=drive_link"
         },
             {
@@ -266,15 +262,11 @@
     "awwards": {
         "awwards": [
             {
-            "no": "01",
-            "title: "ITS24 Hackathon National ",
-            "description": " En reconnaissance de votre participation au Hackathon national du CITS24, un défi d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.
- d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.
- Représentant la région de l'Est, vous avez rejoint 350 innovateurs dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels.
- dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels. Votre contribution à
- Votre contribution à cet événement national a permis de faire avancer la technologie et l'innovation au Cameroun.",
-            "url":"https://drive.google.com/file/d/1mK9cObGddj9CSFqmCdctmaJwif3zHNwC/view?usp=drive_link"
-        },
+                "no": "01",
+                "title": "ITS24 Hackathon National",
+                "description": " En reconnaissance de votre participation au Hackathon national du CITS24, un défi d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.\n d'innovation de 72 heures qui s'est tenu à l'Hôtel Franco Yaoundé du 24 au 27 octobre 2024.\nReprésentant la région de l'Est, vous avez rejoint 350 innovateurs dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels.\n dans un environnement collaboratif, faisant preuve d'une créativité et d'un travail d'équipe exceptionnels. Votre contribution à\n Votre contribution à cet événement national a permis de faire avancer la technologie et l'innovation au Cameroun.",
+                "url":"https://drive.google.com/file/d/1mK9cObGddj9CSFqmCdctmaJwif3zHNwC/view?usp=drive_link"
+            },
             {
                 "no":"02",
                 "title": "Quiz App",
